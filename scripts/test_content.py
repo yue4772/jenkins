@@ -1,11 +1,11 @@
 class TestContent:
 
-    def test01(self):
+    def test_01(self):
         assert 1
 
-    def test02(self):
+    def test_02(self):
         assert 1
 
-    def test03(self):
+    def test_03(self):
         assert 0
         
